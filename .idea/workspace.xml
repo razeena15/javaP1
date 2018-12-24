@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d64a8a4-dceb-4d50-a77c-45ec4e3417e6" name="Default Changelist" comment="" />
+    <list default="true" id="7d64a8a4-dceb-4d50-a77c-45ec4e3417e6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/CapitalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/CapitalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/LimitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/LimitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/LoopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/LoopTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/PalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/PalindromeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/TomjerryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/TomjerryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stackroute/CapitalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/stackroute/CapitalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stackroute/LimitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/stackroute/LimitTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stackroute/PalindromeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/stackroute/PalindromeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stackroute/TomjerryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/stackroute/TomjerryTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,7 +22,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/LoopTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -19,6 +43,9 @@
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -30,20 +57,16 @@
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/TomjerryTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Tomjerry.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Palindrome.java" />
-        <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/PalindromeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/six.java" />
-        <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/CapitalTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/four.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/fourTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/LoopTestTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Limit.java" />
-        <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/LimitTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Addingarray.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/AddingarrayTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Capital.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/ReverseLondon.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/ReverseLondonTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/LoopTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Loop.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/SortingTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Sorting.java" />
@@ -51,6 +74,10 @@
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/StringvowelTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Stack.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/StackTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/CapitalTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/LimitTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/PalindromeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/LoopTest.java" />
       </list>
     </option>
   </component>
@@ -61,7 +88,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="784" />
     <option name="y" value="2" />
     <option name="width" value="823" />
@@ -72,15 +99,75 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pe1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pe1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pe1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pe1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pe1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pe1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pe1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pe1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545299668213" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545613108531" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -113,8 +200,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AddingarrayTest">
-    <configuration name="StringvowelTest.stringChecker" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TomjerryTest">
+    <configuration name="ReverseLondonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="pe1" />
       <extension name="coverage">
         <pattern>
@@ -123,23 +210,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.StringvowelTest" />
-      <option name="METHOD_NAME" value="stringChecker" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AddingarrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="pe1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.AddingarrayTest" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.ReverseLondonTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -186,13 +257,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TomjerryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pe1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.TomjerryTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AddingarrayTest" />
-        <item itemvalue="JUnit.StackTest" />
-        <item itemvalue="Android JUnit.StringvowelTest.stringChecker" />
+        <item itemvalue="JUnit.TomjerryTest" />
         <item itemvalue="JUnit.StringvowelTest" />
+        <item itemvalue="JUnit.StackTest" />
         <item itemvalue="JUnit.SortingTest" />
+        <item itemvalue="JUnit.ReverseLondonTest" />
       </list>
     </recent_temporary>
   </component>
@@ -210,31 +295,11 @@
       <workItem from="1545297733438" duration="1955000" />
       <workItem from="1545300045566" duration="580000" />
       <workItem from="1545344123477" duration="405000" />
+      <workItem from="1545612696751" duration="230000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddingarrayTest_arrayAdderOne - 2018.12.20 at 11h 52m 46s.xml">
-      <configuration name="AddingarrayTest.arrayAdderOne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AddingarrayTest_arrayAdderOne - 2018.12.20 at 11h 53m 14s.xml">
-      <configuration name="AddingarrayTest.arrayAdderOne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseLondonTest_reverse - 2018.12.20 at 12h 21m 00s.xml">
-      <configuration name="ReverseLondonTest.reverse" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoopTest - 2018.12.20 at 15h 03m 32s.xml">
-      <configuration name="LoopTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortingTest - 2018.12.20 at 15h 09m 53s.xml">
-      <configuration name="SortingTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringvowelTest - 2018.12.20 at 15h 13m 58s.xml">
-      <configuration name="StringvowelTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringvowelTest_stringChecker - 2018.12.20 at 15h 14m 29s.xml">
-      <configuration name="StringvowelTest.stringChecker" configurationId="AndroidJUnit" />
-    </history-entry>
     <history-entry file="StackTest - 2018.12.20 at 15h 22m 06s.xml">
       <configuration name="StackTest" configurationId="JUnit" />
     </history-entry>
@@ -244,14 +309,36 @@
     <history-entry file="AddingarrayTest - 2018.12.20 at 15h 24m 31s.xml">
       <configuration name="AddingarrayTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PalindromeTest - 2018.12.24 at 06h 24m 04s.xml">
+      <configuration name="PalindromeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PalindromeTest_palindromeCheker - 2018.12.24 at 06h 24m 22s.xml">
+      <configuration name="PalindromeTest.palindromeCheker" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PalindromeTest_palindromeChcker - 2018.12.24 at 06h 24m 38s.xml">
+      <configuration name="PalindromeTest.palindromeChcker" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CapitalTest - 2018.12.24 at 06h 24m 54s.xml">
+      <configuration name="CapitalTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LimitTest - 2018.12.24 at 06h 25m 01s.xml">
+      <configuration name="LimitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PalindromeTest - 2018.12.24 at 06h 25m 15s.xml">
+      <configuration name="PalindromeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoopTest - 2018.12.24 at 06h 25m 22s.xml">
+      <configuration name="LoopTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26974000" />
+    <option name="totallyTimeSpent" value="27204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1818766" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1844473" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -260,7 +347,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3243607" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3243607" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -270,7 +357,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.33333334" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.33243608" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -342,23 +429,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/six.java" />
     <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/fourTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/LoopTestTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/LimitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/CapitalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/ReverseLondonTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -367,16 +437,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#193#194#0" expanded="true" />
             <element signature="e#257#258#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/LoopTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -421,16 +481,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/PalindromeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Loop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -466,13 +516,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Addingarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/AddingarrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -494,13 +537,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/ReverseLondon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -512,6 +548,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Addingarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/CapitalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/LimitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/PalindromeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/LoopTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

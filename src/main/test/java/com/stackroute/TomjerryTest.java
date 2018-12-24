@@ -14,6 +14,13 @@ public class TomjerryTest {
         assertEquals("Jerry",result);
 
     }
+@Test
+    public void tomJerry1()
+    {
+        String result=t.tomJerry(24);
+        assertEquals("Tom",result);
+
+    }
 
 
 

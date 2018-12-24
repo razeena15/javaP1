@@ -12,7 +12,7 @@ public class LoopTest {
 
         public void loop() {
             int result = lp.loop(5);
-            assertEquals("1,2,2,3,3,3,4,4,4,4,5,5,5,5,5", result);
+            assertEquals(6, result);
         }
 
         //@Test
